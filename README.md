@@ -1,1 +1,1 @@
-# TellerEde
+# Benedek Ákos Marcell
