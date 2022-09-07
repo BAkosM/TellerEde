@@ -3,8 +3,14 @@ body {
   font-weight: 500;
   background-image: url(physics_back.jpg);
   background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
 }
-
+img{
+  float: right;
+  width: 260px;
+  margin-left: 20px;
+}
 p {
   margin: 5px;
   text-indent: 15px;
