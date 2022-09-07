@@ -11,6 +11,9 @@ img{
   width: 260px;
   margin-left: 20px;
 }
+a{
+  text-decoration: none;
+}
 p {
   margin: 5px;
   text-indent: 15px;
@@ -42,6 +45,7 @@ ul {
 span{
   font-weight: 800;
 }
-span:hover {
+span:hover, a:hover{
   color: red;
+  text-decoration: none;
 }
